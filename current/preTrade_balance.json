@@ -1,0 +1,62 @@
+{
+    "LTC": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "BNB": {
+        "free": 0.07026337,
+        "locked": 0.0
+    },
+    "USDT": {
+        "free": 32.3978535,
+        "locked": 0.0
+    },
+    "TRX": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "XRP": {
+        "free": 0.493042,
+        "locked": 0.0
+    },
+    "LINK": {
+        "free": 0.059,
+        "locked": 0.0
+    },
+    "ETC": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "ADA": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "MATIC": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "DOGE": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "BCH": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "SOL": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "DOT": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "AVAX": {
+        "free": 0.0,
+        "locked": 0.0
+    },
+    "XAI": {
+        "free": 0.0,
+        "locked": 0.0
+    }
+}
